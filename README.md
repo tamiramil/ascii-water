@@ -1,7 +1,7 @@
 # ASCII Water
 
-A small experiment in simulating waves on a grid and visualizing them as ASCII characters.  
-Built with C++20 and SFML, this project focuses on a minimal, CPU-friendly approach to representing surface dynamics through simple numerical methods and ASCII-based rendering.
+A small experiment in simulating waves on a grid and visualizing them as a grid.  
+Built with C++20 and SFML, this project represents surface dynamics through simple numerical methods and SFML-based rendering.
 
 ---
 
